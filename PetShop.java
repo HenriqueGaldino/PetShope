@@ -12,13 +12,13 @@ public class PetShop {
 
         do {
             System.out.println("Opções: ");
-            System.out.println("1 - Cadastrar Categoria");
-            System.out.println("2 - Cadastrar Tutor");
-            System.out.println("3 - Cadastrar Animal");
-            System.out.println("4 - Listar Categoria");
-            System.out.println("5 - Listar Tutor");
-            System.out.println("6 - Listar Animal");
-            System.out.println("7 - Sair");
+            System.out.println("[1] - Cadastrar Categoria");
+            System.out.println("[2] - Cadastrar Tutor");
+            System.out.println("[3] - Cadastrar Animal");
+            System.out.println("[4] - Listar Categoria");
+            System.out.println("[5] - Listar Tutor");
+            System.out.println("[6] - Listar Animal");
+            System.out.println("[7] - Sair");
 
             try {
                 opt = scanner.nextInt();
