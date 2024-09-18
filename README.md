@@ -1,13 +1,22 @@
-ATIVIDADE AVALIATIVA PROFESSOR: JACKSON
+#ATIVIDADE AVALIATIVA PROFESSOR: JACKSON
+
+#FEITO POR: HENRIQUE ANDRION GALDINO
+
 _____________________________________________________
-FEITO POR: HENRIQUE ANDRION GALDINO
+
+Data Inicio: 10/9/2024. 
+Data Termino: 17/09/2024.
+
 _____________________________________________________
-Data Inicio: 10/9/2024. Data Termino: 17/09/2024.
-_____________________________________________________
-FERRAMENTAS:
-Github, VsCode
-_____________________________________________________
-LINGUAGEM:
+
+#FERRAMENTAS
+
+Github
+VsCode
+
+
+#LINGUAGEM
+
 Java
 
 
